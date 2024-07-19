@@ -1,0 +1,6 @@
+.item{
+    display: flex;
+    color: black;
+    border: 2px solid white;
+    background-color: aquamarine;
+}
